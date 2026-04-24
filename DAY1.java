@@ -1,5 +1,6 @@
-//2864
 
+import java.util.*;
+//2864
 class Solution {
     public String maximumOddBinaryNumber(String s) {
         int c0=0, c1=-1;
@@ -15,7 +16,7 @@ class Solution {
 //At first, i tried this approach but it ran under 3ms, so i looked up the approaches run in 1ms and it was interesting
 
 //2864 another approach
-class Solution{
+class Solution2 {
     public String maximumOddBinaryNumber(String s) {
         int n=s.length();
         char[] ch = s.toCharArray();
@@ -31,15 +32,15 @@ class Solution{
                 if(ch[right] == '0') right--;
             }
         }
-        arr[right]='0';
-        arr[n-1]='1';
+        ch[right]='0';
+        ch[n-1]='1';
         return new String(ch);
     }
 }
 
 //1496
 
-class Solution {
+class Solution3 {
     public boolean isPathCrossing(String path) {
         Set<String> set = new HashSet<>();
         set.add("0,0");
