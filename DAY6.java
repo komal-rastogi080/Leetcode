@@ -11,7 +11,6 @@ class Solution {
 
         List<Integer> res = new ArrayList<>();
         for(int i=0; i<queries.length; i++){
-            int val = nums[queries[i]];
             List<Integer> list = hm.get(nums[queries[i]]);
             if(list.size()<=1) {
                 res.add(-1);

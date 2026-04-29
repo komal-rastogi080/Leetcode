@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 
 //27. Remove Element
 class Solution{

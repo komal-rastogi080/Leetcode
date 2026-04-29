@@ -3,7 +3,6 @@ import java.util.*;
 class Solution {
     public List<String> twoEditWords(String[] queries, String[] dictionary) {
         List<String> ans = new ArrayList<>();
-        int d = dictionary.length, q = queries.length;
 
         for(String str : queries){
             for(String dict : dictionary){

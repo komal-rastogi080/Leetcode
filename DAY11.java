@@ -3,7 +3,7 @@ import java.util.*;
 
 class Solution {
     public int[] sumEvenAfterQueries(int[] nums, int[][] queries) {
-        int n = nums.length, q = queries.length;
+        int  q = queries.length;
         int evenSum=0;
         for(int ele : nums){
             if(ele%2 == 0) evenSum += ele;
