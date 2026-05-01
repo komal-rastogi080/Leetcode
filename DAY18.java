@@ -83,3 +83,23 @@ class Solution4 {
         return low + k;
     }
 }
+
+//1021. Remove Outermost Parentheses
+
+class Solution5 {
+    public String removeOuterParentheses(String s) {
+        StringBuilder sb = new StringBuilder("");
+        int openCount=0;
+        for(char ch : s.toCharArray()){
+            if(ch == ')'){
+                openCount--;
+                if(openCount > 0) sb.append(ch);
+            }else{
+                
+                if(openCount > 0) sb.append(ch);
+                openCount++;
+            }
+        }
+        return sb.toString();
+    }
+}
