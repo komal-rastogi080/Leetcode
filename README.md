@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
 | [1189-maximum-number-of-balloons](https://github.com/komal-rastogi080/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -17,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/komal-rastogi080/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Array
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
