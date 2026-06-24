@@ -38,4 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/komal-rastogi080/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/komal-rastogi080/Leetcode/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/komal-rastogi080/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/komal-rastogi080/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
