@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/komal-rastogi080/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0620-not-boring-movies](https://github.com/komal-rastogi080/Leetcode/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/komal-rastogi080/Leetcode/tree/master/1075-project-employees-i) |
+| [1193-monthly-transactions-i](https://github.com/komal-rastogi080/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/komal-rastogi080/Leetcode/tree/master/1251-average-selling-price) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/komal-rastogi080/Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1934-confirmation-rate](https://github.com/komal-rastogi080/Leetcode/tree/master/1934-confirmation-rate) |
