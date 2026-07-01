@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
 | [1189-maximum-number-of-balloons](https://github.com/komal-rastogi080/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/komal-rastogi080/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3866-first-unique-even-element](https://github.com/komal-rastogi080/Leetcode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/komal-rastogi080/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3866-first-unique-even-element](https://github.com/komal-rastogi080/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Array
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
+| [3866-first-unique-even-element](https://github.com/komal-rastogi080/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
 | ------- |
