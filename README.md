@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/komal-rastogi080/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/komal-rastogi080/Leetcode/tree/master/0735-asteroid-collision) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/komal-rastogi080/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3866-first-unique-even-element](https://github.com/komal-rastogi080/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/komal-rastogi080/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/komal-rastogi080/Leetcode/tree/master/0292-nim-game) |
 | [0390-elimination-game](https://github.com/komal-rastogi080/Leetcode/tree/master/0390-elimination-game) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/komal-rastogi080/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Simulation
 |  |
 | ------- |
