@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/komal-rastogi080/Leetcode/tree/master/0162-find-peak-element) |
 | [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/komal-rastogi080/Leetcode/tree/master/0735-asteroid-collision) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/komal-rastogi080/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/komal-rastogi080/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3866-first-unique-even-element](https://github.com/komal-rastogi080/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Linked List
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/komal-rastogi080/Leetcode/tree/master/0162-find-peak-element) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/komal-rastogi080/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
