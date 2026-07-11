@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/komal-rastogi080/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/komal-rastogi080/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/komal-rastogi080/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/komal-rastogi080/Leetcode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/komal-rastogi080/Leetcode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [3866-first-unique-even-element](https://github.com/komal-rastogi080/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Linked List
@@ -105,9 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/komal-rastogi080/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/komal-rastogi080/Leetcode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/komal-rastogi080/Leetcode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/komal-rastogi080/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Sorting
+|  |
+| ------- |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/komal-rastogi080/Leetcode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 <!---LeetCode Topics End-->
