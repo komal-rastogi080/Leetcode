@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/komal-rastogi080/Leetcode/tree/master/0735-asteroid-collision) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/komal-rastogi080/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/komal-rastogi080/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/komal-rastogi080/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/komal-rastogi080/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/komal-rastogi080/Leetcode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/komal-rastogi080/Leetcode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/komal-rastogi080/Leetcode/tree/master/0292-nim-game) |
 | [0390-elimination-game](https://github.com/komal-rastogi080/Leetcode/tree/master/0390-elimination-game) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/komal-rastogi080/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/komal-rastogi080/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/komal-rastogi080/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/komal-rastogi080/Leetcode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 ## Simulation
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/komal-rastogi080/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/komal-rastogi080/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/komal-rastogi080/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Stack
 |  |
 | ------- |
@@ -128,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/komal-rastogi080/Leetcode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
+## Two Pointers
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/komal-rastogi080/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/komal-rastogi080/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
