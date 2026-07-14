@@ -57,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/komal-rastogi080/Leetcode/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/komal-rastogi080/Leetcode/tree/master/0155-min-stack) |
 | [0535-encode-and-decode-tinyurl](https://github.com/komal-rastogi080/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/komal-rastogi080/Leetcode/tree/master/0707-design-linked-list) |
 ## Hash Function
 |  |
 | ------- |
