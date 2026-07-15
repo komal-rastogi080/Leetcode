@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/komal-rastogi080/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1189-maximum-number-of-balloons](https://github.com/komal-rastogi080/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/komal-rastogi080/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3894-traffic-signal-color](https://github.com/komal-rastogi080/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Counting
 |  |
 | ------- |
@@ -83,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/komal-rastogi080/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/komal-rastogi080/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/komal-rastogi080/Leetcode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [3894-traffic-signal-color](https://github.com/komal-rastogi080/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/komal-rastogi080/Leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/komal-rastogi080/Leetcode/tree/master/0735-asteroid-collision) |
+| [3894-traffic-signal-color](https://github.com/komal-rastogi080/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
 | ------- |
