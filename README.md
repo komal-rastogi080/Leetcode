@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/komal-rastogi080/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/komal-rastogi080/Leetcode/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/komal-rastogi080/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
 |  |
 | ------- |
@@ -141,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/komal-rastogi080/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/komal-rastogi080/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/komal-rastogi080/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
