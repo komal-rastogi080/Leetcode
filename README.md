@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/komal-rastogi080/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0621-task-scheduler](https://github.com/komal-rastogi080/Leetcode/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
 | [1189-maximum-number-of-balloons](https://github.com/komal-rastogi080/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/komal-rastogi080/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/komal-rastogi080/Leetcode/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/komal-rastogi080/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3866-first-unique-even-element](https://github.com/komal-rastogi080/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Array
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/komal-rastogi080/Leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/komal-rastogi080/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/komal-rastogi080/Leetcode/tree/master/0162-find-peak-element) |
+| [0621-task-scheduler](https://github.com/komal-rastogi080/Leetcode/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/komal-rastogi080/Leetcode/tree/master/0735-asteroid-collision) |
 | [1046-last-stone-weight](https://github.com/komal-rastogi080/Leetcode/tree/master/1046-last-stone-weight) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/komal-rastogi080/Leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komal-rastogi080/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/komal-rastogi080/Leetcode/tree/master/0134-gas-station) |
+| [0621-task-scheduler](https://github.com/komal-rastogi080/Leetcode/tree/master/0621-task-scheduler) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/komal-rastogi080/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/komal-rastogi080/Leetcode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/komal-rastogi080/Leetcode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/komal-rastogi080/Leetcode/tree/master/0621-task-scheduler) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/komal-rastogi080/Leetcode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 ## Two Pointers
 |  |
@@ -165,5 +170,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/komal-rastogi080/Leetcode/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/komal-rastogi080/Leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
