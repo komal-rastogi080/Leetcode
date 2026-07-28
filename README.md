@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/komal-rastogi080/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/komal-rastogi080/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/komal-rastogi080/Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/komal-rastogi080/Leetcode/tree/master/0213-house-robber-ii) |
 | [0621-task-scheduler](https://github.com/komal-rastogi080/Leetcode/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/komal-rastogi080/Leetcode/tree/master/0735-asteroid-collision) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/komal-rastogi080/Leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/komal-rastogi080/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/komal-rastogi080/Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/komal-rastogi080/Leetcode/tree/master/0213-house-robber-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/komal-rastogi080/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Queue
 |  |
