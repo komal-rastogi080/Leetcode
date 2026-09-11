@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/komal-rastogi080/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/komal-rastogi080/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/komal-rastogi080/Leetcode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/komal-rastogi080/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/komal-rastogi080/Leetcode/tree/master/0213-house-robber-ii) |
 | [0621-task-scheduler](https://github.com/komal-rastogi080/Leetcode/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/komal-rastogi080/Leetcode/tree/master/0705-design-hashset) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/komal-rastogi080/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/komal-rastogi080/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/komal-rastogi080/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/komal-rastogi080/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/komal-rastogi080/Leetcode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/komal-rastogi080/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/komal-rastogi080/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/komal-rastogi080/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sorting
 |  |
